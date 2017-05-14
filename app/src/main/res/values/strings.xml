@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Git Hub Demo</string>
+    <string name="search_hint">Type query...</string>
+    <string name="filler"></string>
+    <string name="empty_view">No data available</string>
+    <string name="error_search">Couldn\'t load data</string>
+    <string name="gists">Gists: %1$d</string>
+    <string name="repos">Repos: %1$d</string>
+    <string name="followers">Followers: %1$d</string>
+    <string name="following">Following: %1$d</string>
+</resources>
